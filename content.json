@@ -1,5 +1,5 @@
 {
   "remove_ads_amount": "₹ 50",
-  "remove_ads_desc": "Remove advertisment from app"
-  "remove_ads_purchase_amount_razorpay": "50"
+  "remove_ads_desc": "Remove advertisment from app",
+  "remove_ads_purchase_amount_razorpay": 50
 }
